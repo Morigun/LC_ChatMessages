@@ -30,11 +30,11 @@
     <Reference Include="MMHOOK_Assembly-CSharp">
       <HintPath>..\lib\MMHOOK_Assembly-CSharp.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Netcode.Runtime">
-      <HintPath>..\lib\Unity.Netcode.Runtime.dll</HintPath>
-    </Reference>
     <Reference Include="M0r19un.LC_Lib">
       <HintPath>..\lib\M0r19un.LC_Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Netcode.Runtime">
+      <HintPath>..\..\MonstersWithFlashlights\lib\Unity.Netcode.Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
